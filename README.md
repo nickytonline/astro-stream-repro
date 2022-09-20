@@ -1,4 +1,4 @@
 # Astro Stream Repro
 
 
-https://astro-stream-repro.netlify.app/
+https://astro-edge-stream.netlify.app
